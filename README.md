@@ -192,7 +192,7 @@
       <br />
       <button class="toggle-album-btn" id="showAlbumBtn">Tampilkan Album Foto & Video 📸🎥</button>
       <audio id="music" loop preload="auto">
-        <source src="audio/lagu1.mp3.mp3" type="audio/mpeg" />
+        <source src="lagu1.mp3.mp3" type="audio/mpeg" />
         Browser Anda tidak mendukung audio.
       </audio>
     </div>
@@ -202,31 +202,31 @@
     <h2 class="album-title">Album Kenangan Foto & Video</h2>
     <div class="gallery">
       <div>
-        <img src="foto/foto1.jpg" alt="Kenangan 1" />
+        <img src="foto1.jpg" alt="Kenangan 1" />
         <p>poto paling fav</p>
       </div>
       <div>
-        <img src="foto/foto2.jpg" alt="Kenangan 2" />
+        <img src="foto2.jpg" alt="Kenangan 2" />
         <p>miror nya gacorr habiss</p>
       </div>
       <div>
-        <img src="foto/foto3.jpg" alt="Kenangan 3" />
+        <img src="foto3.jpg" alt="Kenangan 3" />
         <p>animasi dari orang tersayangg</p>
       </div>
       <div>
-        <img src="foto/foto4.jpg" alt="Kenangan 4" />
+        <img src="foto4.jpg" alt="Kenangan 4" />
         <p>poto best di kampus</p>
       </div>
       <div>
         <video controls alt="Video Kenangan 1">
-          <source src="foto/vidio1.mp4" type="video/mp4" />
+          <source src="vidio1.mp4" type="video/mp4" />
           Browser Anda tidak mendukung video.
         </video>
         <p>seseru itu hujan"an di pantai</p>
       </div>
       <div>
         <video controls alt="Video Kenangan 2">
-          <source src="foto/vidio2.mp4" type="video/mp4" />
+          <source src="vidio2.mp4" type="video/mp4" />
           Browser Anda tidak mendukung video.
         </video>
         <p>omagaa</p>
